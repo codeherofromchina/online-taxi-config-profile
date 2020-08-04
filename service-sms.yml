@@ -1,2 +1,4 @@
+server:
+  port: 8002
 meta-map:
   env: service-sms:8002
