@@ -1,7 +1,7 @@
 server:
   port: 8002
 meta-map:
-  env: service-sms:8002
+  env: service-sms-append:8002
 management:
   endpoint:
     health:
